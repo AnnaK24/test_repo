@@ -1,0 +1,35 @@
+---
+title: "Projects"
+output: html_document
+hidedate: true
+hiderelated: true
+hidediscus: true
+---
+
+Check out some of my coding projects below:
+
+
+<i class="fa fa-signal"></i> &nbsp; [Wrangling & Exploratory Data Analysis](/project/project1/)
+
+<i class="fa fa-line-chart"></i> &nbsp; [Modeling, Inference, Prediction](/project/project2/)
+
+Or check out some previous class projects here: 
+
+
+<i class="fa fa-pencil-square-o"></i> &nbsp; [Principles of Animal Behavior Final Project](/project/animalbehavproj/)
+
+<i class="fa fa-pencil-square-o"></i> &nbsp; [Central Texas Salamanders Review](/project/txsalamanders/)
+
+
+You can also take a look at my research projects!
+
+<i class="fa fa-video-camera"></i> &nbsp; [Fall Undergraduate Research Symposium Science Slam](/project/scienceslamvideo/)
+
+
+
+<!--
+<i class="fa fa-pie-chart"></i> 
+<i class="fa fa-tasks"></i> 
+<i class="fa fa-pencil-square-o"></i>
+<i class="fa fa-video-camera"></i>
+-->
