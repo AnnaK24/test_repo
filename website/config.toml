@@ -13,7 +13,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "annaprofile.png"
   author = "Anna Kurtin"
-  occupation = "senior ecology, evolution, and behavior student"
+  occupation = "master's student in wildlife biology at the University of Montana"
   about = "My current interests include wildlife biology, animal behavior, bioacoustics, and conservation. I am also an active runner and love to play music on my free time!"
 
   # Custom assets can be linked with their paths relative to static/
