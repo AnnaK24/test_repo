@@ -3,6 +3,9 @@
 .RData
 .Ruserdata
 
+# File extensions
+*.docx
+
 # Folders
 Archive/
 ArcGIS_Resources/
