@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Folders
+Archive/
+ArcGIS_Resources/
+GitHub_Resources/
+Google_Earth_Engine_Resources/
+Python_Resources/
+R_Resources/
+Folder/Folder/*.pdf
